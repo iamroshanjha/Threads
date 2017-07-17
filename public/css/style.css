@@ -1,0 +1,16 @@
+#form-errors li:first-child{
+	padding-top:15px;
+}
+
+#form-errors li{
+	padding-top:5px;
+}
+
+#form-errors li:last-child{
+	padding-bottom:15px;
+}
+
+#form-errors ul{
+	list-style:none;
+	padding-left: 20px;
+}
