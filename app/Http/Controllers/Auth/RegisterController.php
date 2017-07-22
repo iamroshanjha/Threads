@@ -1,3 +1,4 @@
+
 <?php
 
 namespace Threads\Http\Controllers\Auth;
